@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b27269b-0776-4322-9a64-d6c7d5825427" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/hitcounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hitcounter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/cdk-demo-constructs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bin/cdk-demo-constructs.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk.json" beforeDir="false" afterPath="$PROJECT_DIR$/cdk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cdk-demo-constructs-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cdk-demo-constructs-stack.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cdk-demo-constructs.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/cdk-demo-constructs.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hitcounter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hitcounter.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644355200891</updated>
-      <workItem from="1644355202096" duration="14874000" />
+      <workItem from="1644355202096" duration="17508000" />
     </task>
     <servers />
   </component>
