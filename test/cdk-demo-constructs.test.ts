@@ -1,5 +1,5 @@
-import { Template, Match } from '@aws-cdk/assertions';
-import * as cdk from '@aws-cdk/core';
+import { Template, Match } from 'aws-cdk-lib/assertions';
+import * as cdk from 'aws-cdk-lib';
 import * as CdkDemoConstructs from '../lib/cdk-demo-constructs-stack';
 
 test('SQS Queue Created', () => {
